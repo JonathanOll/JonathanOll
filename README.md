@@ -4,7 +4,7 @@ Futur étudiant en classe préparatoire MP2I(Maths Physique Informatique et Ing�
 
 ## 💻Langages
 
-Mes langages de prédilections sont le C++ et le Python, j'ai également des notions en Java, HTML/CSS/JS.
+Mes langages de prédilection sont le C++ et le Python, j'ai également des notions en Java, HTML/CSS/JS.
 
 <!--
 **JonathanOll/JonathanOll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
