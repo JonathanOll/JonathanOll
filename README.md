@@ -1,4 +1,10 @@
-### Hi there 👋
+# JonathanOll
+
+Futur étudiant en classe préparatoire MP2I(Maths Physique Informatique et Ingénierie). Je m'intéresse depuis quelques années au développement et plus spécifiquement au développement d'Intelligences artificielles pour des petits jeux, et au développement de petits programmes utiles ou amusants.
+
+## Langages
+
+Mes langages de prédilections sont le C++ et le Python, j'ai également des notions en Java, HTML/CSS/JS.
 
 <!--
 **JonathanOll/JonathanOll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
