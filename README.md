@@ -13,7 +13,7 @@ Mes langages de prédilection sont le C++ et le Python, j'ai également des noti
 Passionné de Mathématiques et d'Informatique, je souhaite obtenir un diplôme d'ingénieur dans ces domaines pour plus tard en faire mon métier
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanOll&theme=blue-green" />
+<center> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanOll&theme=blue-green" /> </center>
 
 
 <!--
